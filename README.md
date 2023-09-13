@@ -29,9 +29,10 @@ To use AI Summarizer locally, follow these steps:
 
 ## Usage
 
-1. Provide the text you want to summarize in the web interface.
+1. Provide the url of article that you want to summarize in the web interface.
 2. AI Summarizer will process the text and generate a summary for you.
 3. You can access the live version of AI Summarizer here: [AI Summarizer on Vercel](https://ai-summarizer-olive.vercel.app/)
+4. Remember to provide only article **url** otherwise it may not work.
 
 ## Features
 
